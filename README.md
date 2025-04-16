@@ -2,6 +2,11 @@
 
 Uma API simples de gerenciamento de tarefas desenvolvida com **FastAPI**. Ideal para estudos e pequenos projetos backend com Python.
 
+![image](https://github.com/user-attachments/assets/86dbd26e-6520-40f3-99f8-61996a3885e6)
+![image](https://github.com/user-attachments/assets/fca23004-0b96-4755-88aa-4baac16b7f48)
+
+
+
 ## 🚀 Tecnologias
 
 - Python 3.10+
